@@ -1,3 +1,3 @@
-# calendar
-import brahmi time 
-access grant syam
+# पञ्जिका
+आयात ब्रह्मी वेला 
+अभिगमन-उपाय अनुमतिं ददाति श्री श्याम्
